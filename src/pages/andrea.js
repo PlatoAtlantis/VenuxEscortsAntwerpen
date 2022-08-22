@@ -64,13 +64,10 @@ const Andrea = () => {
                   Anaal
                 </div>
                 <div className="column">
-                  Squirting
-                </div>
-                <div className="column">
                   Zoenen
                 </div>
                 <div className="column">
-                  Dominatrix
+                  Trio
                 </div>
               </div>
             </div>

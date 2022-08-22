@@ -77,7 +77,7 @@ const Judith = () => {
                   Zoenen
                 </div>
                 <div className="column">
-                  Dominatrix
+                  Trio
                 </div>
               </div>
             </div>
